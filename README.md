@@ -4,6 +4,25 @@
 Nombre del estudiante: Juan Pablo Lasso  
 Id.: 493693  
 ---
+Este repositorio es una guía práctica que te ayudará a entender la organización fundamental de un proyecto de programación y a dominar los aspectos clave de Git y GitHub. Desde la navegación básica en la consola hasta la sincronización de repositorios locales con remotos, este recurso te proporcionará las herramientas necesarias para gestionar eficazmente tus proyectos.
+
+Aquí encontrarás:
+
+Un ejemplo de código fuente en Python ubicado en la carpeta src.
+
+Documentación detallada en la carpeta docs que cubre comandos de consola, creación de repositorios (locales y remotos) y su sincronización.
+
+Archivos .gitignore para un control de versiones eficiente.
+
+Imágenes de apoyo que ilustran los pasos del proceso.
+
+Este proyecto ha sido diseñado para ser una referencia clara y concisa sobre cómo estructurar tus proyectos, documentar su desarrollo y aprovechar al máximo Git para un control de versiones robusto.
+---
+Documentación del Proyecto
+[Creación de un Repositorio Local](docs/repositorio_local.md)
+[Creación de un Repositorio Remoto](docs/repositorio_remoto.md)
+[Uso de la Consola](docs/uso_consola.md)
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
