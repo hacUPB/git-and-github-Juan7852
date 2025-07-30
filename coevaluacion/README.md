@@ -1,0 +1,13 @@
+COEVALUACION
+Alejandro Llano Cardona
+https://github.com/hacUPB/git-and-github-Llano411.git 
+
+12/12 puntos 
+Justificacion: El estudiante obtuvo una calificación de 12 sobre 12 puntos porque cumplió de forma excelente con todos los criterios de evaluación. Completó todos los ejercicios requeridos y los subió correctamente a sus respectivos repositorios en GitHub. Los mensajes de commit son claros y descriptivos, con un historial adecuado que refleja un buen uso del control de versiones. Además, los repositorios están correctamente conectados, sin archivos innecesarios, y el archivo README.md fue editado de manera personalizada. Finalmente, la estructura del proyecto es limpia y los nombres de carpetas y archivos siguen exactamente las instrucciones dadas, lo cual facilita la revisión.
+
+| Criterio de Evaluación | Excelente / Logrado (3 pts) | Suficiente / En Proceso (2 pts) | Requiere Mejora (1 pt) |
+| --- | --- | --- | --- |
+| 1. Completitud de Ejercicios | El estudiante completó todos los ejercicios de refuerzo (ejercicio-git-1 y Evaluación U1) subidos a sus respectivos repositorios en GitHub. | El estudiante completó la Evaluación U1, pero el ejercicio-git-1 está incompleto o ausente. | El estudiante solo subió una parte de la Tarea 0 o los archivos están vacíos. |
+| 2. Calidad de Commits | Los mensajes de commit son descriptivos y claros (ej. "Añade script de saludo en Python"). Se observa un historial de al menos 10 commits en ejercicio-git-1 y 1 en la Tarea 0. | Los mensajes de commit son genéricos (ej. "commit", "actualización") o hay entre 5 y 9 commits cuando se pedían más. | No hay un historial de commits claro o hay  menos de 5 commits sin trabajo posterior. |
+| 3. Uso Correcto del Flujo Git/GitHub | Los repositorios están correctamente conectados y no hay archivos innecesarios (como .zip, .rar). El README.md está bien formateado y personalizado. | Los repositorios funcionan, pero puede haber algún archivo irrelevante o el README.md no fue editado. | El repositorio fue creado pero no se conectó correctamente con el local, o los archivos fueron subidos manualmente desde la web en lugar de usar git push. |
+| 4. Estructura y Nomenclatura | Las carpetas y archivos y archivos tienen los nombres solicitados en el texto del archivo `REAMDE.md` del repositorio de la evaluación . La estructura del proyecto es limpia. | Hay pequeños errores en los nombres de los archivos o repositorios (ej. ejercicio1, saludo.python). | Los nombres de archivos y repositorios no siguen las instrucciones, dificultando la revisión. |
